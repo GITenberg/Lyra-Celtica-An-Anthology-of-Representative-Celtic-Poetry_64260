@@ -1,5 +1,5 @@
 _repo: Lyra-Celtica-An-Anthology-of-Representative-Celtic-Poetry_64260
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Sharp, William
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '337'
     url: http://www.gutenberg.org/2009/agents/337
     wikipedia: https://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+covers:
+- cover_type: archival
+  image_path: 64260-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Sharp, Elizabeth A. (Elizabeth Amelia)
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '52826'
     url: http://www.gutenberg.org/2009/agents/52826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64260#Lyra-Celtica-An-Anthology-of-Representative-Celtic-Poetry
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
