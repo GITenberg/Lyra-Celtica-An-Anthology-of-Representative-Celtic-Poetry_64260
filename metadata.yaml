@@ -1,0 +1,40 @@
+_repo: Lyra-Celtica-An-Anthology-of-Representative-Celtic-Poetry_64260
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: https://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+creator:
+  editors:
+  - agent_name: Sharp, Elizabeth A. (Elizabeth Amelia)
+    aliases:
+    - Sharp, E. A. (Elizabeth Amelia)
+    - Sharp, Elizabeth Amelia Sharp
+    - Sharp, Mrs. William
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '44084'
+    url: http://www.gutenberg.org/2009/agents/44084
+  - agent_name: Matthay, J.
+    gutenberg_agent_id: '52826'
+    url: http://www.gutenberg.org/2009/agents/52826
+description: ''
+gutenberg_issued: '2021-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lyra Celtica
+
+  An Anthology of Representative Celtic Poetry'
+url: http://www.gutenberg.org/ebooks/64260
